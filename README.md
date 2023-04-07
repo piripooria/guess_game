@@ -4,6 +4,12 @@ The "Guess the Number" game is a simple program that generates a random number b
 
 The purpose of this program is to provide a fun and simple game that challenges the user's guessing skills and allows them to track their progress over time.
 
+## Requirements
+
+To run this program, you need to have Python 3 installed on your system. You can download the latest version of Python from the official Python website: https://www.python.org/downloads/
+
+No additional packages or modules are required to run this program.
+
 ## How to Play
 
 1) Download the program files from the repository.
