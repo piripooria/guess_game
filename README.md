@@ -8,7 +8,7 @@ The purpose of this program is to provide a fun and simple game that challenges 
 
 To run this program, you need to have Python 3 installed on your system. You can download the latest version of Python from the official Python website: https://www.python.org/downloads/
 
-No additional packages or modules are required to run this program.
+#### No additional packages or modules are required to run this program.
 
 ## How to Play
 
@@ -37,5 +37,4 @@ python game.py
 
 11) If you typed "y", the program will start a new game. If you typed "n", the program will exit with a farewell message.
 
-
-#### Note: At any time during the game, you can type "quit" (without quotes) and press Enter to exit the game immediately.
+Note: At any time during the game, you can type "quit" (without quotes) and press Enter to exit the game immediately.
