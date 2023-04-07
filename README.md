@@ -1,6 +1,8 @@
 # Guess the Number Game
-## Purpose
+
 The "Guess the Number" game is a simple program that generates a random number between 1 and 100 and asks the user to guess the number. The user has to keep guessing until they correctly guess the number. After each game, the program displays the number of guesses it took the user to correctly guess the number, and their high score.
+
+## Purpose
 
 The purpose of this program is to provide a fun and simple game that challenges the user's guessing skills and allows them to track their progress over time.
 
