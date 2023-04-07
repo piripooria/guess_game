@@ -38,4 +38,4 @@ python game.py
 11) If you typed "y", the program will start a new game. If you typed "n", the program will exit with a farewell message.
 
 
-Note: At any time during the game, you can type "quit" (without quotes) and press Enter to exit the game immediately.
+*Note: At any time during the game, you can type "quit" (without quotes) and press Enter to exit the game immediately.
